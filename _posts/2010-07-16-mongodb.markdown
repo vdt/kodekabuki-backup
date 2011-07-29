@@ -1,0 +1,13 @@
+--- 
+layout: default
+title: MongoDB
+tags: []
+
+type: regular
+
+---
+There are lots of MongoDB-related posts [everywhere](http://www.vancelucas.com/blog/mongodb-gotchas/) [lately](http://www.google.com.sg/search?q=site:news.ycombinator.com+mongo). Here are three important things you should know before delving into MongoDB:
+
+* MongoDB uses [memory-mapped](http://www.mongodb.org/display/DOCS/Caching) files for disk I/O. On 32-bit systems, you'll quickly exceed the process size limit (4GB). So you should always run MongoDB in 64-bit in production.
+* MongoDB does not have [single-node durability](http://blog.mongodb.org/post/381927266/what-about-durability) yet (they're reportedly working on it). It keeps data in-memory and it does a `fsync` once every 'n' seconds (n is configurable). It doesn't have a write-ahead log from which you can recover in the event of a crash. So you should always run MongoDB with replication in production.
+* MongoDB doesn't support ACID transactions. It only guarantees atomicity for single document updates.

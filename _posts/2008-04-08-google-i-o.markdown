@@ -1,0 +1,11 @@
+--- 
+layout: default
+title: Google I/O
+tags: []
+
+type: link
+
+---
+<a href="http://code.google.com/events/io/speakers.html">Google I/O</a>
+
+The speakers list is impressive (half of my OPML feed is in there!).

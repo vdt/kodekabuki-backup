@@ -1,0 +1,11 @@
+--- 
+layout: default
+title: kuler
+tags: []
+
+type: link
+
+---
+<a href="http://kuler.adobe.com/">kuler</a>
+
+It is impressive what a community can do to something as simple as color schemes.

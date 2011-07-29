@@ -1,0 +1,9 @@
+--- 
+layout: default
+title: Update on Indian online travel space
+tags: []
+
+type: regular
+
+---
+<div><blockquote cite="http://www.contentsutra.com/blog/_archives/2006/3/8/1803779.html">When the Indian online travel space gets heated up with new players attracting VC funds, what do the existing players do? They will also go in for additional funding to ramp up their operations so that they are stronger and tougher for upstarts to beat them. MakeMyTrip.com has just raised $6 million in its second round of funding, according to a report in VentureWire (sub. required). We will come back with more details on this, after we speak to the company.In May 2005, the online travel company had raised $10 million from the SoftBank Asia Infrastructure Fund (SAIF), a leading Asian private equity firm.In the last two months, at least three Indian online travel companies received funding. First was Yatra Online which got funding from Reliance Capital, Norwest Venture Partners (NVP), and the Television 18 group. Then Kleiner Perkins Caufield and Byers invested in Cleartrip.com, an yet-to-be launched travel portal. Travelguru.com is another prominent company that received funding to the tune of $10 million from WestBridge Capital Partners. </blockquote>  <p>  <a href="http://www.contentsutra.com/blog/_archives/2006/3/8/1803779.html">ContentSutra :: MakeMyTrip.com Raises $6 Million In Series B Financing</a>  </p>  <p>    </p>  <p>    </p>  <p>technorati tags: <a href="http://technorati.com/tag/india" rel="tag">india</a>, <a href="http://technorati.com/tag/online" rel="tag">online</a>, <a href="http://technorati.com/tag/travel" rel="tag">travel</a>, <a href="http://technorati.com/tag/ticket" rel="tag">ticket</a>, <a href="http://technorati.com/tag/fly" rel="tag">fly</a>, <a href="http://technorati.com/tag/airlines" rel="tag">airlines</a></p></div>

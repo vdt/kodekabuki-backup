@@ -1,0 +1,11 @@
+--- 
+layout: default
+title: Zippers
+tags: []
+
+type: link
+
+---
+<a href="http://ferd.ca/yet-another-article-on-zippers.html">Zippers</a>
+
+Fun article on zippers, purely functional data structures. The article specifically focuses on implementing zipper lists, and zipper trees in Erlang.

@@ -1,0 +1,11 @@
+--- 
+layout: default
+title: Meta ad :-)
+tags: []
+
+type: photo
+
+---
+<img src="http://28.media.tumblr.com/flw03FWAI7vdq4efGeX5bdEH_500.jpg" />
+
+Meta ad :-)

@@ -1,0 +1,9 @@
+--- 
+layout: default
+title: XP song!
+tags: []
+
+type: regular
+
+---
+<p><embed src="http://www.youtube.com/v/zpw8h4OGNxg" width="425" height="350" type="application/x-shockwave-flash" wmode="transparent"></p> <p>&nbsp;</p> <div class="wlWriterSmartContent" id="0767317B-992E-4b12-91E0-4F059A8CECA8:9816771e-5967-4632-bdbd-958b09c06293" contenteditable="false" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati tags: <a href="http://technorati.com/tags/xp" rel="tag">xp</a>, <a href="http://technorati.com/tags/extreme%20programming" rel="tag">extreme programming</a>, <a href="http://technorati.com/tags/agile" rel="tag">agile</a>, <a href="http://technorati.com/tags/scrum" rel="tag">scrum</a>, <a href="http://technorati.com/tags/song" rel="tag">song</a>, <a href="http://technorati.com/tags/funny" rel="tag">funny</a>, <a href="http://technorati.com/tags/video" rel="tag">video</a>, <a href="http://technorati.com/tags/samurai%20katamaris" rel="tag">samurai katamaris</a></div></embed>

@@ -1,0 +1,9 @@
+--- 
+layout: default
+title: "Tyler MacNiven\xC3\xA2\xE2\x82\xAC\xE2\x84\xA2s documentary - \"Kintaro Walks Japan\""
+tags: []
+
+type: regular
+
+---
+<p><embed id="VideoPlayback" style="width: 400px; height: 326px" src="http://video.google.com/googleplayer.swf?docId=3067683435545761102&amp;hl=en" type="application/x-shockwave-flash" flashvars=""> </p> <p>This is an hour-long documentary&nbsp;by <a href="http://en.wikipedia.org/wiki/Tyler_MacNiven">Tyler MacNiven</a> (he calls himself "Kintaro" in the video) about his "walking" expedition in Japan in 2004. He walks from the southern-most point in&nbsp;Japan all the way to the&nbsp;North.</p> <p>You would recognize the guy immediately if you watch "The Amazing Race"&nbsp;(for those who don't, he and his&nbsp;partner recently&nbsp;won&nbsp;a million dollars after finishing first in the race). It is a nice video though it would have been&nbsp;better if&nbsp;he&nbsp;had spent more time showing the places he was visiting instead of just focusing on himself so much (and the annoying romantic stuff inbetween). </embed></p> <div class="wlWriterSmartContent" id="0767317B-992E-4b12-91E0-4F059A8CECA8:7bd3a037-db8a-4499-b1ad-e00b9c7fcfd7" contenteditable="false" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati tags: <a href="http://technorati.com/tags/amazing%20race" rel="tag">amazing race</a>, <a href="http://technorati.com/tags/japan" rel="tag">japan</a>, <a href="http://technorati.com/tags/documentary" rel="tag">documentary</a>, <a href="http://technorati.com/tags/kintaro" rel="tag">kintaro</a>, <a href="http://technorati.com/tags/tyler%20macniven" rel="tag">tyler macniven</a>, <a href="http://technorati.com/tags/million%20dollar" rel="tag">million dollar</a>, <a href="http://technorati.com/tags/travelogue" rel="tag">travelogue</a>, <a href="http://technorati.com/tags/walk" rel="tag">walk</a></div>

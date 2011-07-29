@@ -1,0 +1,14 @@
+--- 
+layout: default
+title: "Updates on Seraja: Mobile+Web2.0"
+tags: []
+
+type: regular
+
+---
+<p><a href="http://www.seraja.com/">Seraja</a> is an event tracking engine being developed by a team in Bangalore, India. I have written about Seraja before <a href="http://mallipeddi.blogspot.com/2006/04/barcamps-and-web20-from-india.html">over here</a>.</p><p><a href="http://www.thehindubusinessline.com/2006/05/19/stories/2006051900910400.htm">Hindu BusinessLine</a> has more updates on Seraja's plans for the future - actually more about how their revenue generations plans in India. First of all, I must say that I was pleasantly surprised when I read the article because it looks like they're mostly concentrating on the Indian market. This is a much needed change in the Indian Web 2.0 scene. The big successful web companies in India have for a long time been only in 2 or 3 genres - jobs, matrimonials and news/gossip/content. It is very interesting to have a cool tech company focusing on India.</p><p>From the article, Seraja seems to be keen on launching white label services and it is also interesting to find them <strong>integrate mobile with Web 2.0</strong>. For a long time, I have been thinking about lots of ways to integrate mobile phones with web 2.0 services. A lot of web 2.0 services are so simple to use that it is practical enough to put them on the phone which in turn would allow us to provide additional services which are location-enabled, anytime-anywhere and so on.</p><p>Only thing I didn't understand is "paying people to add events to their database". Now this is a problem - how long are they going to pay? how much are they going to pay? if they're going to pay like 1 Re. for every new event added by a person, then people might kick start their creative brains and flood their database with fake events.
+
+One thing I liked about them is that from what I gather from the articles, they seem to brand themselves as Seraja on the web. But outside the web, in the mobile world, they seem to be interested in white label services. This way they will not confuse the users with their dual identities. Moreover, they can keep their online service free (w/o ads) and at the same time utilise the user contributions online to make money via the mobile phone services.
+
+I think it's also reasonable to expect them to launch location-based services like if you're in a particular place in Bangalore, and if there's an event which you might be interested in and is going to happen in the next 3-4 hours, then you get a SMS on your phone. Also, I would imagine that they can incorporate ad-hoc events which are started and shared only among a group of friends for example. If they catch on, and if they enable location-based services, they'll be <strong>India's Dodgeball+</strong> in my opinion. Too many ifs eh? :)
+</p>

@@ -1,0 +1,11 @@
+--- 
+layout: default
+title: The History of Computer Chess
+tags: []
+
+type: regular
+
+---
+<div> <p> Watch the <a href="http://video.google.com/videoplay?docid=-1583888480148765375">History of Chess - An AI perspective</a> [2h Google Video] by Computer History Museum - the video features the who's who of AI from USA.
+  </p>  <p> Interesting notes from the video (read these and you would definitely want to watch the video after this!)
+  </p>  <p> 1) Terrible bugs in chess programs do not seem to affect much the overall intelligence of the program. Why? </p>  <p> McCarthy - The concept of the "powerful position" is key here. The best way to lose chess is to actually play it like you want to win and when you reach this so called "powerful position", you start throwing it away. </p>  <p> 2) One more interesting note is by Murray Campbell from IBM's Deep Blue project - "Deep Blue actually is incapable of learning. And I would like to see a computer program which can learn chess just as a human would." </p>  <p> 3) Interestingly, computer programs for Chess are far better than those for Poker, Bridge and Go being especially the most difficult - McCarthy pointed out the reason why Go is difficult than Chess; it seems that the no. of branches in each step in Chess is far less than that of Go and hence the computers are powerful enough to visualise enough moves in Chess while running the alpha-beta algorithm than in the case of Go. </p>  <p> 4) One lesson learnt from creating chess programs </p>  <p> "Computers can be used to solve problems which normally require a lot of human intelligence in ways which do not require intelligence." - Edward Feigenbaum (this guy is 100x a better nerd than me to have actually said something like this!). </p>  <p> There are loads of other cool videos uploaded by the Computer History Museum to Google Videos and I would try to comment on them as I watch them during the weekend. </p>  <p>  </p>  <p>  </p> <p>technorati tags: <a href="http://technorati.com/tag/ai" rel="tag">ai</a>, <a href="http://technorati.com/tag/cs" rel="tag">cs</a>, <a href="http://technorati.com/tag/research" rel="tag">research</a>, <a href="http://technorati.com/tag/game" rel="tag">game</a></p></div>

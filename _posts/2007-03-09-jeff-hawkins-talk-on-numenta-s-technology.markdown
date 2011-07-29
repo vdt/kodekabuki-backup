@@ -1,0 +1,9 @@
+--- 
+layout: default
+title: "Jeff Hawkins\xC3\xA2\xE2\x82\xAC\xE2\x84\xA2 talk on Numenta\xC3\xA2\xE2\x82\xAC\xE2\x84\xA2s technology"
+tags: []
+
+type: regular
+
+---
+<p><embed id="VideoPlayback" style="width: 400px; height: 326px" src="http://video.google.com/googleplayer.swf?docId=-2500845581503718756&amp;hl=en" type="application/x-shockwave-flash" flashvars=""></p> <p>[<a title="Jeff Hawkins at IBM" href="http://video.google.com/videoplay?docid=-2500845581503718756&amp;q=numenta">original Google Video page</a>]</p> <p></embed>I have read his book "<a href="http://www.amazon.com/Intelligence-Jeff-Hawkins/dp/0805074562">On Intelligence</a>"&nbsp;long time back&nbsp;- one of the best books I have read. Seriously if you have taken an AI course in college, it somehow feels like something is wrong with the whole approach. Now I don't know if <a href="http://www.numenta.com">Numenta</a>'s approach will work well, but atleast there's something fresh <a href="http://www.numenta.com/for-developers/education.php">to play with</a>. </p> <div class="wlWriterSmartContent" id="0767317B-992E-4b12-91E0-4F059A8CECA8:d471e32e-0c2f-4ce7-a7b4-aa88b223e945" contenteditable="false" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati tags: <a href="http://technorati.com/tags/ai" rel="tag">ai</a>, <a href="http://technorati.com/tags/artificial%20intelligence" rel="tag">artificial intelligence</a>, <a href="http://technorati.com/tags/neural%20networks" rel="tag">neural networks</a>, <a href="http://technorati.com/tags/numenta" rel="tag">numenta</a>, <a href="http://technorati.com/tags/jeff%20hawkins" rel="tag">jeff hawkins</a>, <a href="http://technorati.com/tags/neuroscience" rel="tag">neuroscience</a>, <a href="http://technorati.com/tags/talk" rel="tag">talk</a>, <a href="http://technorati.com/tags/ibm" rel="tag">ibm</a></div>

@@ -1,0 +1,23 @@
+--- 
+layout: default
+title: Voice 2.0
+tags: []
+
+type: regular
+
+---
+<div><b>Applications as the value creators</b>
+
+<a href="http://www.iotum.com">Iotum</a> - "simply relevant", is another entry at DEMO '06 and they're focusing in the voice industry. They're basically like a VoIP company but with the added benefit of their propietory relevance engine - it predicts the relevance of the calls, how important the call is, will it disturb the recepient if routed to him right now, and makes a decision accordingly. Pretty good idea!
+
+Iotum folks had a really nice article on Voice 2.0 - they pretty much summarize what the future of this space is going to be like:-
+
+In the Voice 2.0 world, there will be three billable entities: <b>connectivity, directory, and applications.</b> Connectivity and directory will be low margin, commodity businesses. Customers will pay for access to the network, and perhaps to be listed in a directory. Applications will be the value creators. The meter is off.
+
+If talk is the baseline, then applications will be where value is created. Applications in the Voice 2.0 world will come in three flavours:
+
+Â· <b>Voice applications</b> - these are the traditional voice applications we already know and love. IVR, unified messaging, conferencing, and perhaps others. Sophisticated new tools, such as VoiceXML, will provide ways to create richer and more powerful voice applications, and drive further value.
+Â· <b>Voice enabled IT applications</b> - these are intersection of todayâ€™s business process automation tools with voice. Sales force automation, CRM, accounting, email, payroll, etc. Every application we use today will become communications enabled with voice. Next generation softphones will evolve from simple replacement systems for road warriors into full blown platform components for knowledge worker applications.
+Â· <b>The voice web</b> - the mash-up of voice and the internet will result in a whole new class of applications, not seen yet. VoiceXML is the first step in this direction. Tools like PHPVoice take this a step further, allowing for sophisticated voice applications to be built using the same kinds of scripting tools that the web is built from. However, the real pot of gold is the combination of web services and voice. Examples include: spoken word real estate descriptions from the MLS coupled with mapping, voice enabled matchmaker services, customer service coupled with inventory / ordering / availability. The mix of text, web, voice, and programmatic access to data is a heady brew. The construction and sale of these applications will be a market bigger than the web itself. 
+
+Applications are where the value is created in Voice 2.0.</div>

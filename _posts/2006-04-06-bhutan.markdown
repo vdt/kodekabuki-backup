@@ -1,0 +1,11 @@
+--- 
+layout: default
+title: Bhutan
+tags: []
+
+type: regular
+
+---
+<a href="http://www.flickr.com/photos/babasteve/63774065/" title="photo sharing"><img src="http://static.flickr.com/31/63774065_1ea09c35e4_m.jpg" alt="" /></a>
+<a href="http://www.flickr.com/photos/babasteve/63774065/">Bhutan</a> 
+Originally uploaded by <a href="http://www.flickr.com/people/babasteve/">babasteve</a>.<br /><p>Boy I would love to visit Bhutan atleast once. There are direct flights from Kolkata and Delhi to Paro airport, but they seem to have too many restrictions on tourists visiting their country which  is actually a good idea (actually that makes it even more appealing). One more interesting thing is Bhutan - the modern name for the country comes from the Sanskrit word "Bhu-Uttan", meaning "High Land". Never realised that the word Bhutan is Sanskrit until now!</p>

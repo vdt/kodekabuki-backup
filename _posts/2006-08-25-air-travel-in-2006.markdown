@@ -1,0 +1,17 @@
+--- 
+layout: default
+title: Air travel in 2006
+tags: []
+
+type: regular
+
+---
+<blockquote>
+    <p><span><span style="font-size:10pt; font-family:Arial, sans-serif;">The 12 Indians arrested in Amsterdam for alleged 'suspicious behaviour' on a Mumbai-bound US airliner, have being released after Dutch authorities cleared them of the suspicion of act of terrorism.</span></span></p>
+    <p><a href="http://www.expressindia.com/fullstory.php?newsid=72896">[Read the full article]</a></p>
+</blockquote>
+<p>It looks like you can drop your travel plans to North America and Europe, if you happen to have brown skin and a black beard, wear a traditional salwar kameez and speak English with a heavy Hindi/Urdu accent.</p>
+<p>Meanwhile I just flew back from Bangalore to Singapore this week and the airport security in India has become even more ridiculous now (thanks to the Heathrow airport bomb scare). Only clothes, a mobile phone, and a laptop is allowed as cabin baggage. No iPod. No Nintendo DS. No rechargeable batteries. No perfume. What is even worse is that they make you power on your laptop and check that there is nothing suspicious. It took me an hour to check-in my baggage and there were only 2 people in front of me in the queue at the check-in counter.</p>
+<p><small>Tags: <a rel="tag" href="http://technorati.com/tag/india">india</a>, <a rel="tag" href="http://technorati.com/tag/airport">airport</a>, <a rel="tag" href="http://technorati.com/tag/security">security</a>, <a rel="tag" href="http://technorati.com/tag/dutch">dutch</a>, <a rel="tag" href="http://technorati.com/tag/airlines">airlines</a>, <a rel="tag" href="http://technorati.com/tag/travel">travel</a></small></p>
+<p align="right"><small><em>Powered by</em> <a href="http://www.qumana.com/">Qumana</a></small></p>
+
