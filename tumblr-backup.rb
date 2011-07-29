@@ -28,7 +28,7 @@ Dir.mkdir IMAGE_DIRECTORY unless File.directory? IMAGE_DIRECTORY
 def fetch(uri_str, limit = 10)
   raise ArgumentError, 'HTTP redirect too deep' if limit == 0
   uri = URI.parse(uri_str)
-  # puts "Fetching #{uri}"
+  puts "Fetching #{uri} -- #{limit}"
   response = Net::HTTP.get_response(uri)
   yield case response
   when Net::HTTPSuccess     then response
@@ -190,3 +190,14 @@ EOPOST
 end
 
 puts "Done."
+
+status = `git status`
+if (status =~ /nothing to commit/)
+  puts "Nothing to do."
+else
+  if system("git commit -a -m \"snapshot: #{Time.now.to_s}\" && git push -u origin master")
+    puts "Updated."
+  else
+    puts "Failed."
+  end
+end
